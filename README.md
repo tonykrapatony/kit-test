@@ -2,14 +2,14 @@
 
 A simple blog application
 
-## 🚀 Features
+##  Features
 
 - Create, read, update, and delete blog posts
 - Firebase Firestore integration
 - State management via Redux Toolkit
 - Responsive design using Tailwind CSS
 
-## 📦 Tech Stack
+## Tech Stack
 
 - [React 19](https://react.dev/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -19,7 +19,7 @@ A simple blog application
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 
-## 🔧 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
